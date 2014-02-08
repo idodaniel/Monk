@@ -1,5 +1,5 @@
 Monk
-====
+==
 
 Minimum est Maximum.
 
