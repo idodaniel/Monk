@@ -15,7 +15,7 @@ Monk is for you.
 <br />
 <h2>About the author</h2>
 Hello, my name is <b>Ido Daniel</b> (I know, I have a wierd name). I'm a 15 years old student, who lives in Tel Mond, Israel. I began my journey at programming at age 12, and since then I just got better. Nowdays, I dare to say I'm pretty awesome at PHP and HTML5. <br />
-I still have a lot to learn, especially on JavaScript, jQuery and CSS3; but hey, I'm only 15! :D<br />
+I know still have a lot to learn, especially on JavaScript, jQuery and CSS3; but hey, I'm only 15! :D<br />
 
 
 <h4>Monk - Minimum Est Maximum!</h4>
