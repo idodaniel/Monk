@@ -1,5 +1,6 @@
 Monk
 ====
 
-Minimum est Maximum. \n
+Minimum est Maximum.
+
 Testing is Awersome
