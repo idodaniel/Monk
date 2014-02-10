@@ -17,5 +17,19 @@ Monk is for you.
 Hello, my name is <b>Ido Daniel</b> (I know, I have a wierd name). I'm a 15 years old student, who lives in Tel Mond, Israel. I began my journey at programming at age 12, and since then I just got better. Nowdays, I dare to say I'm pretty awesome at PHP and HTML5. <br />
 I know still have a lot to learn, especially on JavaScript, jQuery and CSS3; but hey, I'm only 15! :D<br />
 
+Maybe I'll just stop talking and let PHP do the work for me:
+```php
+<?php
+function awesomeIt($someGuy) {
+$awesomeness = global $monk;
+while ($someGuy + $awesomeness > ∞) {
+    $someGuy += $awesomeness;
+  }
+}
+
+awesomeIt(global $you);
+
+?>
+```
 
 <h4>Monk - Minimum Est Maximum!</h4>
