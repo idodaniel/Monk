@@ -31,5 +31,6 @@ awesomeIt(global $you);
 
 ?>
 ```
+Allways stay Awesome!
 
 <h4>Monk - Minimum Est Maximum!</h4>
